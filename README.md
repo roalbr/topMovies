@@ -66,7 +66,8 @@ Consulta no CoreData e lista os filmes salvos.
 
 #### Regra de negócio de filtro
 ![topFilmes-alert](https://user-images.githubusercontent.com/17296448/72229331-9897cc00-358c-11ea-9f9e-98321e4cf5ba.png)
-![topFilmes-filtro](https://user-images.githubusercontent.com/17296448/72229334-99306280-358c-11ea-8f0b-7ff551b77f39io .png)
+
+
 
 
 
