@@ -41,8 +41,8 @@ Consulta no CoreData e lista os filmes salvos.
 
 ## Desenvolvimento
 
-### Breno Carvalho Alves de Morais
-#### brenomorais88@gmail.com
+### Rodrigo Prado de Albuquerque
+### ralbuquerque.info@gmail.com
 
 
 # topMovies
