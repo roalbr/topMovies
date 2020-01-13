@@ -47,7 +47,7 @@ Consulta no CoreData e lista os filmes salvos.
 
 # topMovies
 
-![Image of Query Repositories](topFilmes-lista.png)
+(![topFilmes-lista](https://user-images.githubusercontent.com/17296448/72229279-1dceb100-358c-11ea-9399-e111e8623c0c.png))
 
 
 
